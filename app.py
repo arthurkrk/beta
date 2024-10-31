@@ -1,7 +1,7 @@
 import streamlit as st
-import matplotlib.pyplot as plt
+import matplotlib as plt
 import datetime
-import plotly.graph_objs as go
+import plotly as go
 
 import yfinance as yf
 import appdirs as ad
